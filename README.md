@@ -1,4 +1,4 @@
 markdown-css
 ============
 
-style of markdown look like gutbhub.
+Github Markdown CSS - for Markdown Editor Preview
